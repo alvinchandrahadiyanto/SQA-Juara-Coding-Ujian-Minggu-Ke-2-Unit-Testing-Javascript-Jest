@@ -10,7 +10,8 @@ npm install jest --save-dev
   "scripts": {
     "test": "jest"
   }
-}
+},
+  "type": "module"
 ```
 
 ### Example:
@@ -34,7 +35,8 @@ into this:
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "type": "module"
 }
 ```
 
