@@ -6,11 +6,9 @@ npm install jest --save-dev
 ### Add a corresponding run script to the package.json:
 
 ```
-{
   "scripts": {
     "test": "jest"
-  }
-},
+  },
   "type": "module"
 ```
 
