@@ -1,3 +1,10 @@
+# Ujian Minggu ke 2 SQA Juara Coding Batch 20 Javascript
+
+Ini adalah soal ujian bootcamp yang dikerjakan ulang dalam bahasa javascript
+https://github.com/alvinchandrahadiyanto/SQA-Juara-Coding-Ujian-Minggu-Ke-2-Unit-Testing-Java-TestNG
+
+Semua ketentuan sudah ada di web tersebut
+
 ## Install Jest
 ```
 npm install jest --save-dev
